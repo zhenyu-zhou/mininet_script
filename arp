@@ -1,0 +1,40 @@
+1
+h1
+h2
+h3
+---------
+h1
+h2
+h3
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.1                 ether   00:00:00:00:00:01   C                     h3-eth0
+---------
+h1
+h2
+h3
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.1                 ether   00:00:00:00:00:01   C                     h3-eth0
+10.0.0.2                 ether   00:00:00:00:00:01   C                     h3-eth0
+---------
+2
+h1
+h2
+h3
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.1                 ether   00:00:00:00:00:01   C                     h3-eth0
+10.0.0.2                 ether   00:00:00:00:00:01   C                     h3-eth0
+---------
+h1
+h2
+h3
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.1                 ether   00:00:00:00:00:01   C                     h3-eth0
+10.0.0.2                 ether   00:00:00:00:00:01   C                     h3-eth0
+---------
+h1
+h2
+h3
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.1                 ether   00:00:00:00:00:01   C                     h3-eth0
+10.0.0.2                 ether   00:00:00:00:00:01   C                     h3-eth0
+---------

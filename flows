@@ -1,0 +1,22 @@
+1
+---------
+stats_reply (xid=0xdd4ee7c7): flags=none type=1(flow)
+
+---------
+stats_reply (xid=0xc4553338): flags=none type=1(flow)
+  cookie=4503599627370496, duration_sec=1s, duration_nsec=7000000s, table_id=0, priority=100, n_packets=0, n_bytes=0, idle_timeout=50,hard_timeout=0,in_port=3,dl_vlan=0xffff,dl_src=00:00:00:00:00:03,dl_dst=00:00:00:00:00:01,actions=output:2
+  cookie=4503599627370496, duration_sec=1s, duration_nsec=7000000s, table_id=0, priority=100, n_packets=0, n_bytes=0, idle_timeout=50,hard_timeout=0,in_port=2,dl_vlan=0xffff,dl_src=00:00:00:00:00:01,dl_dst=00:00:00:00:00:03,actions=output:3
+
+---------
+2
+---------
+stats_reply (xid=0xc228fc6d): flags=none type=1(flow)
+  cookie=4503599627370496, duration_sec=2s, duration_nsec=39000000s, table_id=0, priority=100, n_packets=1, n_bytes=42, idle_timeout=50,hard_timeout=0,in_port=3,dl_vlan=0xffff,dl_src=00:00:00:00:00:03,dl_dst=00:00:00:00:00:01,actions=output:2
+  cookie=4503599627370496, duration_sec=2s, duration_nsec=39000000s, table_id=0, priority=100, n_packets=0, n_bytes=0, idle_timeout=50,hard_timeout=0,in_port=2,dl_vlan=0xffff,dl_src=00:00:00:00:00:01,dl_dst=00:00:00:00:00:03,actions=output:3
+
+---------
+stats_reply (xid=0xa8b3e1e3): flags=none type=1(flow)
+  cookie=4503599627370496, duration_sec=3s, duration_nsec=64000000s, table_id=0, priority=100, n_packets=2, n_bytes=84, idle_timeout=50,hard_timeout=0,in_port=3,dl_vlan=0xffff,dl_src=00:00:00:00:00:03,dl_dst=00:00:00:00:00:01,actions=output:2
+  cookie=4503599627370496, duration_sec=3s, duration_nsec=64000000s, table_id=0, priority=100, n_packets=0, n_bytes=0, idle_timeout=50,hard_timeout=0,in_port=2,dl_vlan=0xffff,dl_src=00:00:00:00:00:01,dl_dst=00:00:00:00:00:03,actions=output:3
+
+---------
